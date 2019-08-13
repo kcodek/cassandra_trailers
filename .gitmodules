@@ -1,0 +1,3 @@
+[submodule "driver_cassandra/external/cpp-driver"]
+	path = driver_cassandra/external/cpp-driver
+	url = https://github.com/datastax/cpp-driver.git
